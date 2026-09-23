@@ -1,4 +1,4 @@
-#This is Vinit Exp  bhai
+#This is Vinit Exp
 # Spring PetClinic Sample Application  
 # Modified By DevOps Shack  https://www.youtube.com/@devopsshack
 
